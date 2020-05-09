@@ -1,0 +1,29 @@
+Features
+  The list of all features in the dataset.
+Features_Mean_Std
+  The list of selected features with "mean" or "std" in the dataset.
+Features_names
+  The name list of selected features with "mean" or "std" in the dataset.
+
+Train_X
+  The extracted data from UCI HAR Dataset/train/train_X.txt.
+Train_Y
+  The extracted data from UCI HAR Dataset/train/train_Y.txt.
+Train_Sub
+  The extracted data from UCI HAR Dataset/train/train_Subjects.txt.
+Train
+  The combined data from UCI HAR Dataset/train/.
+  
+Test_X
+  The extracted data from UCI HAR Dataset/test/test_X.txt.
+Test_Y
+  The extracted data from UCI HAR Dataset/test/test_Y.txt.
+Test_Sub
+  The extracted data from UCI HAR Dataset/test/test_Subjects.txt.
+Test
+  The combined data from UCI HAR Dataset/test/.
+
+HARDataset
+  The final combined data without labeling.
+HARDataset_tidy
+  The final combined data with labeling for output.
